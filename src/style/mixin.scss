@@ -1,0 +1,10 @@
+@mixin d-flex($display, $direction, $justify, $align) {
+  display: $display;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+}
+
+@mixin background($direction, $color1, $color2) {
+  background: linear-gradient($direction, $color1, $color2);
+}

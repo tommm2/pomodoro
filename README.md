@@ -1,19 +1,8 @@
-# week1
+# pomodoro 番茄鐘
 
-## Project setup
-```
-npm install
-```
+功能：
+* 新增、編輯、刪除代辦事項、重製代辦事項(包含動畫)
+* 時間計時功能、調整時間、重製時間
+* 提示訊息(未選擇代辦事項或是未輸入代辦事項時顯示)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![專案快照](https://imgur.com/F5cJR72)
